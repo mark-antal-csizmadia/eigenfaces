@@ -12,3 +12,5 @@ Jupyter Notebook as a kernel: python -m ipykernel install --user --name eigenfac
 8. Make sure that the kernel is set to the eigenfaces_env kernel via selecting Kernel>Change kernel...>Python (eigenfaces_env)
 9. Happy playing!
 
+# Issues.
+1. Issue with reading PGM files.
